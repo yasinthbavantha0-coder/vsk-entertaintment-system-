@@ -135,7 +135,6 @@ public class VSK_Dashboard {
     }
 
     private static void searchInventoryMenu() {
-       12sq23wefsxwsesdweswdeddddddd
         System.out.print("\nEnter keyword to search inventory (Mic, Mic Stand, Line Array, JBL Speaker, Bin, Keyboard): ");
         String query = scanner.nextLine().trim().toLowerCase();
         if (query.isEmpty()) return;
